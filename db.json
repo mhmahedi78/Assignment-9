@@ -1,0 +1,92 @@
+  {
+
+    "students_data" : [
+        {
+            "id" :"1",
+            "name":"Mahedi",
+            "age":"10",
+            "class":"05 ",
+            "roll":"01"
+        },
+        {
+            "id" :"2",
+            "name":"Hasan",
+            "age":"11 ",
+            "class":"05",
+            "roll":"02"
+        },
+        {
+            "id" :"3",
+            "name":"Tajim",
+            "age":"10",
+            "class":"05",
+            "roll":"03"
+        },
+        {
+            "id" :"4",
+            "name":"Ahmed",
+            "age":"10",
+            "class":"05",
+            "roll":"04"
+        },
+        {
+            "id" :"5",
+            "name":"Taskin",
+            "age":"11",
+            "class":"05",
+            "roll":"05"
+        },
+        {
+            "id" :"6",
+            "name":"Sakib",
+            "age":"11",
+            "class":"05",
+            "roll":"06"
+        }
+
+
+    ],
+    "teachers_data":[
+
+        {
+            "id" :"1",
+            "name":"Mahedi Hasan",
+            "age":"30",
+            "skill":"MSC"
+        },
+        {
+            "id" :"2",
+            "name":"Tahim Ahmed",
+            "age":"35",
+            "skill":"MSC"
+        },
+        {
+            "id" :"3",
+            "name":"Taskin Ahmed",
+            "age":"33",
+            "skill":"MSC"
+        },
+        {
+            "id" :"4",
+            "name":"Hasan",
+            "age":"32",
+            "skill":"MSC"
+        },
+        {
+            "id" :"5",
+            "name":"Naeim Hossen",
+            "age":"30",
+            "skill":"MSC"
+        },
+        {
+            "id" :"6",
+            "name":"Arif HOssen",
+            "age":"31",
+            "skill":"MSC"
+        }
+
+
+    ]
+
+
+  }                                                                                                                                                                                                                                                                      
